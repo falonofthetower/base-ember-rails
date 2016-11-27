@@ -3,7 +3,9 @@
     "postinstall": "./bin/heroku_install"
   },
   "devDependencies": {
-    "bower": "*"
+    "bower": "*",
+    "ember-cli-simple-auth": "0.8.0",
+    "ember-simple-auth": "1.1.0"
   },
   "cacheDirectories": [
     "frontend/node_modules",
